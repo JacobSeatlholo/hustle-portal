@@ -19,12 +19,12 @@ const Home = () => {
           {/* do the same styling as above but make it reponsive so on mobile screens the text is smaller */}
           <h1 className="text-6xl md:text-7xl md:font-normal  font-bold text-left align-center pt-20 pl-20 xs:text-6xl">
             Go from
-            <br /> zero to $1
+            <br /> zero to R100
           </h1>
           {/* <p className="text-2xl text-left align-center pt-10 pl-20 pr-28"> */}
           {/* same styling as above, but when on mobile, make the text center */}
           <p className="text-2xl md:text-left align-center pt-10 pl-20 pr-28 xs:text-center">
-            With Gumroad, anyone can earn their first dollar online. Just start
+            With Hustleportal, anyone can earn their first Rand online. Just start
             with what you know, see what sticks, and get paid.
             <br /> It’s that easy.
           </p>
